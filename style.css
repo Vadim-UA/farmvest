@@ -29,6 +29,7 @@
   left: 0;
   width: 100%;
   background-color: transparent;
+  z-index: 50;
 }
 
 .header__wrapper {
@@ -243,6 +244,7 @@
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
+  cursor: pointer;
 }
 
 .buttons-header__item:hover {
