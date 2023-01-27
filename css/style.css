@@ -29,6 +29,7 @@
   left: 0;
   width: 100%;
   background-color: transparent;
+  z-index: 50;
 }
 
 .header__wrapper {
